@@ -70,6 +70,7 @@ Once every step has been completed, the new version should appear on the website
 
 # La struttura del progetto
 
+```
 / index.html
 | about.html
 | services.html
@@ -90,6 +91,7 @@ Once every step has been completed, the new version should appear on the website
         | index.html
     / servicen
         | index.html
+```
 
 Quando vuoi aggiungere un nuovo progetto o servizio dei creare una nuova cartella dentro la cartella services o projects, chiamarla con il nome del nuovo progetto/servizio e creare un nuovo file html partendo da portfolio-single.html che trovi nella root.
 
