@@ -66,3 +66,30 @@ You might need to enter your GitHub username and password.
 
 Once every step has been completed, the new version should appear on the website.
 
+
+
+# La struttura del progetto
+
+/ index.html
+| about.html
+| services.html
+| projects.html
+| contact.html
+| privacy.html
+/ -- projects
+    / project1
+        | index.html
+    / project2 
+        | index.html
+    / projectn
+        | index.html
+/ -- services
+    / service1
+        | index.html
+    / service2
+        | index.html
+    / servicen
+        | index.html
+
+Quando vuoi aggiungere un nuovo progetto o servizio dei creare una nuova cartella dentro la cartella services o projects, chiamarla con il nome del nuovo progetto/servizio e creare un nuovo file html partendo da portfolio-single.html che trovi nella root.
+
