@@ -4,8 +4,7 @@
  */
 @font-face {
     font-family: 'Dubai';
-    src: url('../font/DUBAI-BOLD.TTF') format('truetype');
-    
+    src: url('../font/DUBAI-REGULAR.TTF') format('truetype');    
     font-weight: normal;
     font-style: normal
 }
